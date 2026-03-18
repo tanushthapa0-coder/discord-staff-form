@@ -1,0 +1,1 @@
+{\n  "name": "discord-staff-form",\n  "version": "1.0.0",\n  "description": "A Node.js Express project for Discord staff forms.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "axios": "^0.24.0",\n    "dotenv": "^10.0.0",\n    "ejs": "^3.1.6"\n  }\n}
